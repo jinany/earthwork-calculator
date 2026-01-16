@@ -1,6 +1,6 @@
 streamlit==1.28.1
-PyMuPDF
+PyMuPDF==1.23.8
 streamlit-drawable-canvas==0.9.3
-Pillow
-shapely
-numpy
+Pillow==10.0.0
+shapely==2.0.2
+numpy==1.24.3
